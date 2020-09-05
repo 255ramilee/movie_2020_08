@@ -87,4 +87,7 @@
     flex-flow: column;
   }
   .movie img {max-width: 100%;}
+  .movie__name {
+    width:90%;
+  }
 }
